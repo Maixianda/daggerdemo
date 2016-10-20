@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_9a1193e45d295a121a0f5042c4683bf8c4d91d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_1f3a3e1789a4e4e7ee406174d3b4d20ad8a2fa66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_1f2fc976e28004d347dfde4858a351e8e75388dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_8ad53718875d263efc9f5dad95fc3130e7736adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger-producers\2.0-beta\80276338d1c2542ebebac542b535d1ecd48a3fd7\dagger-producers-2.0-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80276338d1c2542ebebac542b535d1ecd48a3fd7">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\dagger-producers-2.0-beta_6c6200b318095b4dbc69f1748a3804228a7316e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program Files (x86)\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\guava-18.0_65bb40568653711c4f83f6041557d3b5a185e686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_df88c47b31b6fd222be30669ef55e0adb908820e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_857660b30de7b1846ab0066afd6c5aada9ef6a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_98c6acaa9aa726a7dc8f34528db672f7d041f705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_59c7ffc65d138992852fd40642ada6aaef6c8210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d25d7930dc4fb32260cc020d9ef8472a04d23a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_caca28a16431fee3775290649464e22a4378e1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_188a94fcff1e9a9ef30c9ed3c4ab7c6a5bc3a999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_daeff1219df3647bddfb7570e37d2e1399f7cfa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_d94a39cc3a8c21e0ddcf55572455d0bb9aa54042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b005aadf582fb82e70d9e6dd67085b2525d5a702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_48da4087ff68145407b6ba30b1dfd758dc0c8767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger-compiler\2.0.2\1170f75c1ce293f80755bbc9fcd60e0765022bd0\dagger-compiler-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1170f75c1ce293f80755bbc9fcd60e0765022bd0">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\dagger-compiler-2.0.2_ace3aaf59534ddaf0df73f17943b7b3fab6aafac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3747740f6a8b0efecb3cb46ceaff0412ea1eee29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b9415c1d2f83664fec902b99d046936ba2742112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_92d45d3b16f898c8d966457d87a88aaf85b6b089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_05d8c607edf1f5b38cc72bcc8c1bea0cf2f00c15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta2\3a233746381a03dbb0f5f3ed10b11c3e72dba499\adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0-beta2_4231f34f4e6159f3e348d24c550c1b488a7d114e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_db6f37c7df7a3f59519efd206b41206290188b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\dagger-2.0.2_8947057dc5f4ce720e3251d864584c5a25ee4945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\work\android-dagger2\DaggerHumanDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2c6c2074b926113408d0a3297c4295b7369ff1a2.jar" />
+    </item>
+
+</items>

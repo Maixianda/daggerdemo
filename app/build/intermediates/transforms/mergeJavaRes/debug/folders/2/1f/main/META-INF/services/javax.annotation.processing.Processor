@@ -1,0 +1,4 @@
+butterknife.internal.ButterKnifeProcessor
+
+dagger.internal.codegen.ComponentProcessor
+
